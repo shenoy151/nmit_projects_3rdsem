@@ -4,6 +4,8 @@
 Calculator::Calculator() : result(0) {}
 
 double Calculator::add(double a, double b) {
+	
+	// Added by dhrithi in her branch
     result = a + b;
     return result;
 }
